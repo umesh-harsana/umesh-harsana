@@ -5,6 +5,11 @@ Turning data into business insights
 
 ---
 
+## Skills
+SQL | Power BI | Excel | Data Cleaning | Data Visualization
+
+---
+
 ## 📌 Projects
 - 📊 Marketing Campaign Analysis → Improved ROI insights  
 - 👥 HR Attrition Dashboard → Found key drivers of attrition

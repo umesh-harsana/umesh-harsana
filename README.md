@@ -1,7 +1,6 @@
 # Hi, I'm Umesh Harsana
 
-Aspiring Data Analyst | SQL | Power BI | Excel 
-Turning data into business insights
+Aspiring Data Analyst | SQL | Power BI | Excel | Turning data into business insights
 
 ---
 
@@ -11,8 +10,9 @@ SQL | Power BI | Excel | Data Cleaning | Data Visualization
 ---
 
 ## 📌 Projects
-- 📊 Marketing Campaign Analysis → Identified high and low-ROI campaigns and optimized budget allocation 
-- 👥 HR Attrition Dashboard → Found key drivers of attrition and suggested retention strategies
+- 📊 Marketing Campaign Analysis → Analyzed Marketing Campaign Performance data and identified high and low-ROI campaigns
+- 👥 HR Attrition Dashboard → Analyzed Employee Attrition across departments to find key drivers of attrition
+- 🚖 Ride Booking Data Analysis → Analyzed Ride Booking and Cancellation trends, and found reasons for cancellation and revenue loss
 
 ---
 

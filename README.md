@@ -11,7 +11,7 @@ SQL | Power BI | Excel | Data Cleaning | Data Visualization | Dashboard Developm
 ---
 
 ## 📌 Projects
-- 🔄 Customer Cohort Analysis → Analyzed Customer data to find retention, repeat purchasing behavior, and revenue trends through cohort-based analysis.
+- 🔄 Customer Cohort Analysis → Analyzed Retail Transactions to find retention, repeat purchasing behavior, and revenue trends through cohort-based analysis.
 - 📊 Marketing Campaign Analysis → Analyzed Marketing Campaign Performance data and identified high and low-ROI campaigns
 - 🚖 Ride Booking Data Analysis → Analyzed Ride Booking and Cancellation trends, and found reasons for cancellation and revenue loss
 - 👥 HR Attrition Analysis → Analyzed Employee Attrition across departments to find key drivers of attrition
